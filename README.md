@@ -22,14 +22,32 @@
 <br />
 
 
+## Git clone
 
+```
+#bash
+ 
+git clone  https://github.com/zobaidulkazi/zobaidulkazi.git
 
+```
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Cang Folder 
 
-## Getting Started
+```
+#bash
+cd zobaidulkazi
 
-First, run the development server:
+```
+
+## npm install node_module all pakg
+
+```
+npm install
+#or
+npm i
+
+```
+## Run zobaidulkazi Project
 
 ```bash
 npm run dev
