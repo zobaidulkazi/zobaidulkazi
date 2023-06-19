@@ -16,42 +16,6 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/zobaidulkazi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/zobaidulkazi" /></a></p><br><br>
 
 
+<hr />
 
-<hr>
-<br />
-<br />
-
-
-## Git clone
-
-```
-#bash
- 
-git clone  https://github.com/zobaidulkazi/zobaidulkazi.git
-
-```
-
-## Cang Folder 
-
-```
-#bash
-cd zobaidulkazi
-
-```
-
-## npm install node_module all pakg
-
-```
-npm install
-#or
-npm i
-
-```
-## Run zobaidulkazi Project
-
-```bash
-npm run dev
-
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## https://zobaidulkazi.vercel.app/
