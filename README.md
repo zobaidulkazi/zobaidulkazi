@@ -100,19 +100,19 @@ I am a full-stack developer who can help you build and maintain both the front-e
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zobaidulkazi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zobaidulkazi&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zobaidulkazi&theme=xcode"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!-- <h2 align="left">⚡Activity Graph:</h2> -->
+<!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zobaidulkazi&theme=xcode"/> -->
+
+<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="zobaidulkazi" height="30" width="40" /></a><a href="https://twitter.com/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="zobaidulkazi" height="30" width="40" /></a><a href="https://linkedin.com/in/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="zobaidulkazi" height="30" width="40" /></a><a href="https://fb.com/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="zobaidulkazi" height="30" width="40" /></a><a href="https://dribbble.com/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="zobaidulkazi" height="30" width="40" /></a><a href="https://hashnode.com/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hashnode.svg" alt="zobaidulkazi" height="30" width="40" /></a><a href="https://www.hackerrank.com/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="zobaidulkazi" height="30" width="40" /></a><a href="https://www.youtube.com/c/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="zobaidulkazi" height="30" width="40" /></a><a href="https://www.leetcode.com/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="zobaidulkazi" height="30" width="40" /></a><a href="https://dev.to/zobaidulkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="zobaidulkazi" height="30" width="40" /></a></p>
 
-<br />
-<br />
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zobaidulkazi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zobaidulkazi" /></a></p><br><br>
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/zobaidulkazi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zobaidulkazi" /></a></p><br><br> -->
