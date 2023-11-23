@@ -26,7 +26,8 @@ I am a full-stack developer who can help you build and maintain both the front-e
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 style="color: red;" align="left">Languages and Tools:</h3>
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/scala-original.svg" alt="Scala" width="40" height="40"/>
@@ -55,15 +56,40 @@ I am a full-stack developer who can help you build and maintain both the front-e
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/sapper.svg" alt="Sapper" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/middleman.svg" alt="Middleman" width="40" height="40"/>
-</p>
+</p> -->
 
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobaidulkazi&layout=compact&theme=" alt=zobaidulkazi />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=zobaidulkazi&show_icons=true&locale=en&theme=" alt="zobaidulkazi" /></p>
+<br />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zobaidulkazi&theme=" alt="zobaidulkazi" /></p>
+
+<div>
+
+
+## Skills
+
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React, Redux, Angular, Tailwind CSS, Bootstrap, etc..
+- **Backend:** Node.js, NestJS, GraphQL, Express, etc..
+- **Databases:** MongoDB, MySQL, Redis, etc..
+- **Backend Services:** Firebase, Heroku, etc..
+- **DevOps:** Docker, Heroku, etc..
+- **Software:** Figma, Postman, Canvas, MsOffice, etc..
+- **Other:** Git, Linux, etc..
+
+</div>
+
+<!-- <h3 style="color: red;" align="left">Stars</h3>
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobaidulkazi&layout=compact&theme=dark" alt=zobaidulkazi /> -->
+
+
+
+<!-- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=zobaidulkazi&show_icons=true&locale=en&theme=dark" alt="zobaidulkazi" /></p> -->
+
+<!-- <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zobaidulkazi&theme=dark" alt="zobaidulkazi" /></p> -->
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -75,7 +101,7 @@ I am a full-stack developer who can help you build and maintain both the front-e
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zobaidulkazi&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zobaidulkazi&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zobaidulkazi&theme=xcode"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
