@@ -1,49 +1,47 @@
-import { BannerData } from '@/config/homeDB'
-import Link from 'next/link'
-import React from 'react'
-
+import { BannerData } from "@/config/homeDB";
+import Link from "next/link";
+import React from "react";
+import BannerRight from "./BannerRight";
 
 function Banner() {
   return (
-    <div>
-        <section className="relative bg-[url(https://images.unsplash.com/photo-1700587085844-b96c27958df2?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-cover bg-center bg-no-repeat">
-    
-  <div
-    className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center"
-  >
-    <div className="mx-auto max-w-3xl text-center">
-      <h1
-        className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
-      >
-        {BannerData.title}
+    <>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+        <div className="relative dark:bg-[url(https://cdn1.iconfinder.com/data/icons/characters-and-objects/512/error_404_workflow_support___website_crash_warning_furniture_office_work_maintenance.png)] bg-cover bg-center bg-no-repeat">
+          <section className="">
+            <div className="mx-auto max-w-screen-2xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
+              <div className="mx-auto max-w-3xl text-center">
+                <h1 className="bg-gradient-to-r from-purple-700 via-blue-400 to-yellow-400 bg-clip-text font-extrabold text-transparent sm:text-2xl md:text-3xl lg:text-4xl">
+                  {BannerData.title}
 
-        <span className="sm:block"> Increase Conversion. </span>
-      </h1>
+                  <span className="font-extrabold text-red-700 sm:block">
+                    {" "}
+                    {BannerData.subtitle}{" "}
+                  </span>
+                </h1>
 
-      <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
-       {BannerData.description}
-      </p>
+                <p className="text-fuchsia-700 font-semibold sm:text-xl md:text-2xl lg:text-3xl  align-text-top">
+                  {BannerData.description}
+                </p>
 
-      <div className="mt-8 flex flex-wrap justify-center gap-4">
-        <Link
-          className="block w-full rounded border border-blue-600 bg-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
-          href={BannerData.buttonLink1}
-        >
-         {BannerData.buttonText1}
-        </Link>
-
-        <Link
-          className="block w-full rounded border border-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-blue-600 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
-          href={BannerData.buttonLink2}
-        >
-          {BannerData.buttonText2}
-        </Link>
+                <div className="mt-8 grid grid-cols-1 gap-10">
+                  <Link
+                    className="rounded-2xl border border-blue-800 bg-blue-800 sm:px-6 lg:px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-black hover:bg-slate-100 hover:border-none focus:outline-none  w-auto sm:w-44 sm:m-auto"
+                    href={BannerData.buttonLink1}
+                  >
+                    {BannerData.buttonText1}
+                  </Link>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div >
+          <BannerRight />
+        </div>
       </div>
-    </div>
-  </div>
-</section>
-    </div>
-  )
+    </>
+  );
 }
 
-export default Banner
+export default Banner;

@@ -1,11 +1,11 @@
+
 const BannerData = {
-    title: 'Welcome to my website',
-    subtitle: 'This is a subtitle',
-    description: 'This is a description',
-    buttonText1: 'Get Started',
-    buttonText2: "Learn More",
+    title: 'Hi, I am @Zobaidul Kazi',
+    subtitle: "From Bangladesh",
+    description: "I am Full Stack JavaScript Web Developer is a professional possesses expertise in both front-end and back-end technologies, allowing  to work on all aspects of web application development.",
+    buttonText1: "see more",
     buttonLink1: '/',
-    buttonLink2: '/',
+    imageUrl: "/public/bg-1.png"
   }
     
 
