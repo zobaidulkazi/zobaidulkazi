@@ -1,18 +1,10 @@
-import React from 'react'
 
-function KaziPage() {
-    const app = () => {
-        return (
-            <div>
-
-            </div>
-        )
-    }
+function Kazi() {
   return (
     <div>
-        <h1>Hello Kazi</h1>
+        <h1>@zobaidulkazi</h1>
     </div>
   )
 }
 
-export default KaziPage
+export default Kazi
